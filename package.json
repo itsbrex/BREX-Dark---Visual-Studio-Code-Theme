@@ -1,0 +1,23 @@
+{
+    "name": "brex-dark",
+    "publisher": "itsbrex",
+    "displayName": "BREX DARK",
+    "description": "pretty, and pretty easy on the eyes.",
+    "version": "0.0.1",
+    "repository": "https://github.com/itsbrex/BREX-Dark---Visual-Studio-Code-Theme",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BREX Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BREX Dark-color-theme.json"
+            }
+        ]
+    }
+}
